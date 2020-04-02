@@ -1,2 +1,2 @@
 
-/zgopdf.pdf        https://www.zgopdf.netlify.com
+/zgopdf.pdf        https://www.zgo.netlify.com
